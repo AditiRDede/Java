@@ -1,0 +1,20 @@
+git config --global user.name Aditi
+git config --global user.email aditi.dede@gmail.com
+
+1) touch .gitignore
+
+2) git init
+
+3) git add .
+
+4)git commit -m "first commit"
+
+5)git status //just to check
+
+6)generate SSH key , add on gitaccount
+
+7)cat ssh_key path
+
+8)git remote add origin <ssh url.git>
+
+9) git push origin master
